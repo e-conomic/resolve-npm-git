@@ -1,6 +1,6 @@
 # resolve-npm-git
 
-Resolve npm git dependencies to a git revision.
+Resolve npm git dependencies to a git revision in a package.json.
 Allows npm to cache the dependency properly when reinstalling
 
 ```
